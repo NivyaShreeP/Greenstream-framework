@@ -1,0 +1,8 @@
+
+=== BASELINE RESULTS ===
+{'CIC': 82, 'NHC': 1, 'DLW': 0, 'FCL': 0, 'RSI': 1, 'COI': 0}
+GCS: 76.4
+
+=== GREENSTREAM RESULTS ===
+{'CIC': 72, 'NHC': 1, 'DLW': 0, 'FCL': 0, 'RSI': 1, 'COI': 4}
+GCS: 82.9
